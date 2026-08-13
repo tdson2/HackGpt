@@ -1,3 +1,4 @@
+# HackGPT core module
 from .advanced_engine import AdvancedAIEngine, AnalysisResult, PatternRecognizer, VulnerabilityCorrelator, ContextManager
 from .model_registry import (
     ModelProvider, ModelInfo, MODEL_CATALOG,

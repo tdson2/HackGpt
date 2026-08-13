@@ -1,3 +1,4 @@
+# HackGPT core module
 """Pytest root config — stub heavy deps before hackgpt.py is imported."""
 
 import sys

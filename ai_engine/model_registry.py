@@ -1,3 +1,4 @@
+# HackGPT core module
 """Model registry and provider abstraction layer for HackGPT.
 
 Provides a centralized catalog of supported AI models across multiple

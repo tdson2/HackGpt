@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Enhanced Security and Authentication System for HackGPT
 Enterprise-grade authentication, RBAC, and audit logging

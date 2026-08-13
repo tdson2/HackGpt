@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Load Balancer for HackGPT Enterprise
 Distributes traffic across multiple instances for scalability

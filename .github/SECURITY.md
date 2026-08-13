@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 <div align="center">
   <img src="../public/hackgpt-logo.png" alt="HackGPT Enterprise Logo" width="200" height="auto">
 </div>

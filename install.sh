@@ -1,4 +1,5 @@
 #!/bin/bash
+# HackGPT shell script
 
 # HackGPT Enterprise Installation Script
 # Installs all dependencies for enterprise penetration testing platform

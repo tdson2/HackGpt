@@ -1,3 +1,4 @@
+# HackGPT YAML configuration
 name: Deploy HackGPT Website to Pages
 
 on:

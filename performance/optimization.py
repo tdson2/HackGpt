@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Optimization Module for HackGPT Enterprise
 Query optimization and resource optimization utilities

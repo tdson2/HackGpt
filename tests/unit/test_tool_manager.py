@@ -1,3 +1,4 @@
+# HackGPT core module
 """ToolManager command execution (no shell=True)."""
 
 import sys

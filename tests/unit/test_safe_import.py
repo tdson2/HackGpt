@@ -1,3 +1,4 @@
+# HackGPT core module
 """advance_hackgpt optional-import helper."""
 
 import advance_hackgpt

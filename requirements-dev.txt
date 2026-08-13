@@ -1,3 +1,4 @@
+# HackGPT configuration file
 # Development and CI test dependencies
 -r requirements.txt
 

@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # HackGPT Project Summary
 
 ## 🎯 Project Overview

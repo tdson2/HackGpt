@@ -1,3 +1,4 @@
+# HackGPT core module
 import pytest
 from advance_hackgpt import EnterpriseHackGPT, EnterpriseWebDashboard
 

@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # 🚀 HackGPT Enterprise Release History
 
 This document logs the release updates, bug fixes, and feature integrations for HackGPT Enterprise.

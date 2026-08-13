@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # 🚀 HackGPT Enterprise Release Notes — Version 2026.07.beta.4
 
 We are excited to announce the release of **HackGPT Enterprise Version 2026.07.beta.4**! This release introduces the Advanced SOC (Security Operations Center) Analysis Engine, native SIEM Integrations, and expanded Threat Model compliance mapping to include the latest OWASP Top 10 guidelines and major 2024–2026 CVE detection rules.

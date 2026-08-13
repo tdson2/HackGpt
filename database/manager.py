@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Database manager for HackGPT
 Handles database connections, migrations, and operations

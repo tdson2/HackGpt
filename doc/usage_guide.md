@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # 📖 HackGPT Enterprise User & Command Guide
 
 Welcome to the official user manual for **HackGPT Enterprise**, the state-of-the-art AI-powered penetration testing, vulnerability assessment, and Security Operations Center (SOC) platform.

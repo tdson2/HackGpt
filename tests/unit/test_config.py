@@ -1,3 +1,4 @@
+# HackGPT core module
 """Config and credential defaults for advance_hackgpt."""
 
 import os

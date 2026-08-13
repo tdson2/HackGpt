@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 ---
 name: 💡 Feature Request
 about: Suggest an idea for HackGPT Enterprise

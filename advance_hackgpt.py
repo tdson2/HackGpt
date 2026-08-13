@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 HackGPT - Enterprise AI-Powered Penetration Testing Platform
 Author: HackGPT Team

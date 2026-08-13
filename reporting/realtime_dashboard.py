@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Real-time Analytics Dashboard for HackGPT
 WebSocket-based real-time monitoring and metrics

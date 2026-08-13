@@ -1,3 +1,4 @@
+# HackGPT configuration file
 FROM kalilinux/kali-rolling
 
 # Set environment variables

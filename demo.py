@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 HackGPT Demo Script
 Demonstrates HackGPT capabilities against a test target

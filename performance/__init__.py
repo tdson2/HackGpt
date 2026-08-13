@@ -1,3 +1,4 @@
+# HackGPT core module
 """
 Performance and Scalability Module
 

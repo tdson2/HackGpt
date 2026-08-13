@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # Alpha — Autonomous Web Editor (EARLY PROTOTYPE / NOT IMPLEMENTED)
 
 > Status: **EARLY PROTOTYPE — NOT IMPLEMENTED.** This directory is an

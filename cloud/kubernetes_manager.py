@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Kubernetes Management for HackGPT
 Handles Kubernetes deployment, scaling, and orchestration

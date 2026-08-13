@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Database models for HackGPT
 SQLAlchemy ORM models for data persistence

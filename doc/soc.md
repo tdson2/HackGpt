@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # HackGPT SOC Analysis Console & SIEM Integration Guide
 
 This guide details how to configure, query, and use the Security Operations Center (SOC) Analysis Engine and external SIEM connectors within the HackGPT framework.

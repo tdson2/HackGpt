@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 HackGPT Test Suite
 Run this script to validate your HackGPT installation

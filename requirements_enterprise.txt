@@ -1,3 +1,4 @@
+# HackGPT configuration file
 # HackGPT Enterprise Requirements
 # Production-ready dependencies for enterprise penetration testing platform
 

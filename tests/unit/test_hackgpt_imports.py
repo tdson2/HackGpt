@@ -1,3 +1,4 @@
+# HackGPT core module
 """Smoke imports for the advance_hackgpt entry point."""
 
 def test_advance_hackgpt_core_classes_import():

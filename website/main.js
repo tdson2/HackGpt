@@ -1,3 +1,4 @@
+// HackGPT script module
 // HackGPT Landing Page JS logic
 
 document.addEventListener('DOMContentLoaded', () => {

@@ -1,4 +1,5 @@
 #!/bin/bash
+# HackGPT shell script
 # HackGPT Usage Examples
 # This script demonstrates various ways to use HackGPT
 

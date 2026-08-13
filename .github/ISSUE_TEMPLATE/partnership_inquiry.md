@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 ---
 name: 💰 Sponsorship & Investment Inquiry
 about: Partnership, sponsorship, or investment opportunities

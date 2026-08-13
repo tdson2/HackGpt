@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Docker Container Management for HackGPT
 Handles containerization, image building, and container orchestration

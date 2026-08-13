@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Microservice Base Class for HackGPT
 Provides common functionality for all microservices

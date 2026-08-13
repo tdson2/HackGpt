@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Cache Management System for HackGPT
 Provides multi-layer caching with Redis and memory backends

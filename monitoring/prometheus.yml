@@ -1,3 +1,4 @@
+# HackGPT YAML configuration
 # HackGPT Prometheus scrape configuration
 global:
   scrape_interval: 15s

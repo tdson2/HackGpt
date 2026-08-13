@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Provider client implementations for HackGPT multi-model AI support.
 

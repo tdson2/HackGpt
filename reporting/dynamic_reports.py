@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Enterprise Reporting System for HackGPT
 Dynamic report generation with analytics and trend analysis

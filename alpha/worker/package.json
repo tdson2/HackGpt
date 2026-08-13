@@ -1,7 +1,8 @@
 {
+  "_comment": "HackGPT configuration file",
   "name": "alpha-worker",
   "version": "0.0.0",
-  "description": "PROTOTYPE — NOT IMPLEMENTED. Stub worker/orchestrator for the Alpha autonomous web editor experiment.",
+  "description": "PROTOTYPE \u2014 NOT IMPLEMENTED. Stub worker/orchestrator for the Alpha autonomous web editor experiment.",
   "private": true,
   "scripts": {
     "start": "node -e \"console.log('alpha-worker is a NOT IMPLEMENTED prototype stub'); process.exit(0)\""

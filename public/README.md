@@ -1,3 +1,4 @@
+<!-- HackGPT document -->
 # 🎨 HackGPT Enterprise Brand Assets
 
 This folder contains the official brand assets for HackGPT Enterprise.

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Compliance Framework for HackGPT
 Maps findings to various compliance frameworks and generates reports

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# HackGPT core module
 """
 Advanced SOC (Security Operations Center) Analysis Engine for HackGPT
 
